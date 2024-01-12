@@ -1,1 +1,1 @@
---- $ --- Your ad can be here!!! ;) --- $ ---
+Responsive markup
