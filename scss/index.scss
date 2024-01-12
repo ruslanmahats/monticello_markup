@@ -1,0 +1,11 @@
+@use "_reset";
+@use "_fonts";
+@use "_variables" as *;
+@use "_mixins" as *;
+@use "header";
+@use "main";
+@use "footer";
+
+html {
+	scroll-behavior: smooth;
+}
